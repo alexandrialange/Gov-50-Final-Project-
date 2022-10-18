@@ -1,0 +1,17 @@
+---
+title: "LANGE Gov 50 Final Project"
+author: "Alexandria Lange"
+date: "2022-10-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+install.packages("distill")
+```
+
